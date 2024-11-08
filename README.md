@@ -4,8 +4,8 @@ This is a simple weather application built using React. It allows users to searc
 
 ## 📸 Preview
 
-<img src = "screenshot\01.png" alt = "weather app with React" style = "width:100%;"/><br />
-<img src = "screenshot\02.png" alt = "weather app with React" style = "width:100%;"/>
+<img src = "https://github.com/user-attachments/assets/58a66bc1-61d9-43ab-99b3-2b80e69e9946" alt = "weather app with React" style = "width:100%;"/><br />
+<img src = "https://github.com/user-attachments/assets/519b0ca5-89be-46ca-b9dd-5a35d9751c04" alt = "weather app with React" style = "width:100%;"/>
 <br/>
 
 ## ✨ Features
@@ -31,7 +31,7 @@ This is a simple weather application built using React. It allows users to searc
 
 To run the WeatherApp locally, follow these steps:
 
-1. Clone the repository: `https://github.com/its-kumar-yash/react-weather-app.git`
+1. Clone the repository: `https://github.com/sivakumar-472/weather-App`
 2. Navigate to the project directory: `cd react-weather-app`
 3. Install the dependencies: `npm install`
 4. Create a free account on OpenWeatherMap to obtain an API key.
@@ -46,7 +46,6 @@ To run the WeatherApp locally, follow these steps:
 `WeatherApp` is developed and maintained by `Yash`. Weather data is retrieved from the [OpenWeatherMap API](https://openweathermap.org/).
 
 ## 📧Contacts
-For any inquiries or feedback, please contact [Here](mailto:its.yash.kumar23@gmail.com).
+For any inquiries or feedback, please contact [Here](mailto:sivasivakumar8979@gmail.com).
 =======
 # WeatherApp
->>>>>>> a4bf41db7564dd2db1d03f44f2765e604bb9e8cf
